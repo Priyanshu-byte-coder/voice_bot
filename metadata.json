@@ -1,0 +1,7 @@
+{
+  "name": "Saathi - Your AI Companion",
+  "description": "A compassionate AI voicebot designed to offer a warm and supportive space for you to share your thoughts and feelings. Speak freely and find a moment of peace.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
